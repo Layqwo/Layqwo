@@ -1,5 +1,5 @@
 # 👨‍💻 Кирилл Скоробогат 
-*Data Engineering Student | Big Data Enthusiast*
+*Data Engineering*
 
 📍 **Москва, м. Лефортово**  
 📧 **Email:** [skorobogat2017@yandex.ru](mailto:skorobogat2017@yandex.ru)  
@@ -43,10 +43,10 @@
 
 | **Категория**               | **Технологии**                              |
 |------------------------------|---------------------------------------------|
-| **Программирование**         | Python (Advanced), SQL (Advanced), Pandas (Intermediate) |
+| **Программирование и анализ данных**         | Python (Advanced), SQL (Advanced), Pandas (Intermediate) |
 | **Big Data**                 | HDFS, Hive, Spark (Intermediate), YARN (Basic) |
 | **Инструменты**              | Linux, Git (Intermediate), Docker (Basic)  |
-| **Языки**                    | Английский (C1 - CAE)                      |
+| **Иностранные языки**                    | Английский (C1 - CAE)                      |
 
 ## 📂 Проекты
 
